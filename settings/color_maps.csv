@@ -91,7 +91,7 @@ PAM06_a,#AF6125,neuron,brown
 ,#009F3F,,darkgreen
 ,#132157,,navy
 ,#009F3F,,darkgreen
-,#95A3CE,,blue
+MBON17-like,#95A3CE,neuron,blue
 ,#95A3CE,,blue
 ,#95A3CE,,blue
 ,#95A3CE,,blue
@@ -134,7 +134,7 @@ MBON09,#053CFF,neuron,royalblue
 ,#053CFF,,royal blue
 ,#053CFF,,royalblue
 ,#0072B2,,steelblue
-,#56B4E9,,skyblue
+MBON17,#56B4E9,neuron,skyblue
 MBON13,#A3CCE9,neuron,iceblue
 ,#000000,,black
 ,#4D4D4D,,darkgrey
