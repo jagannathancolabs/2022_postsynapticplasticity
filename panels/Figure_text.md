@@ -27,7 +27,7 @@ acheived by segregation of the synapses residing on the postsynaptic site.\
 First, for each specific MBON, we obtained all the relevant upstream neurons including KCs.
 Second, for the specific MBON, we obtained the synaptic connections residing on the MBON (postsynapses).
 Third, for each postsynaptic location identify the locations wherein the KCs are on the presynaptic side.
-Fourth, for each KC-MBON synaptic pair compute the euclidean distance to the nearest KC-MBON synaptic pair. To achieve specificity across the synaptic sites, such distances should be larger (thereby preventing cross-talk).
+Fourth, for each KC-MBON synaptic pair compute the euclidean distance to the nearest KC-MBON synaptic pair. To achieve specificity across the synaptic sites, such distances should be larger (thereby preventing cross-talk)  (Fig xx (e)).
 
 ## References:
 [1] Scheffer, L. K. et al. A connectome and analysis of the adult Drosophila central brain. eLife 9, e57443 (2020).
