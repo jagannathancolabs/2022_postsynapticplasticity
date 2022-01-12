@@ -9,7 +9,7 @@ DPM,#8FDA04,neuron,green
 ,#8FDA04,,green
 ,#8FDA04,,green
 ,#5CA700,,green
-,#F4B95A,,paleorange
+KCg-m,#F4B95A,neuron,paleorange
 ,#EF7C12,,darkorange
 ,#54BCD1,,cyan
 ,#C70E7B,,purple
@@ -32,7 +32,7 @@ KCa'b'-m,#F0E442,neuron,yellow
 KCa'b'-ap1,#EBBF06,neuron,paleorange
 KCa'b'-ap2,#F8F097,neuron,mediumorange
 ,#EE4244,,cerise
-KCg-m,#EF7C12,neuron,orange
+,#EF7C12,,orange
 ,#C70E7B,,purple
 ,#D72000,,red
 ,#1BB6AF,,marine
