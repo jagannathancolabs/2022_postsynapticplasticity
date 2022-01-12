@@ -31,9 +31,9 @@ DPM,#8FDA04,neuron,green
 KCa'b'-m,#F0E442,neuron,yellow
 KCa'b'-ap1,#EBBF06,neuron,paleorange
 KCa'b'-ap2,#F8F097,neuron,mediumorange
-,#EE4244,,cerise
+KCg-m,#EE4244,neuron,cerise
 ,#EF7C12,,orange
-,#C70E7B,,purple
+KCg-d,#C70E7B,neuron,purple
 ,#D72000,,red
 ,#1BB6AF,,marine
 ,#31D64D,,palegreen
@@ -126,16 +126,16 @@ MBON17-like,#95A3CE,neuron,blue
 ,#B32DB5,,magenta
 ,#B32DB5,,magenta
 ,#CC79A7,,pink
-MBON03,#0072B2,neuron,steel blue
+MBON-M6,#0072B2,neuron,steel blue
 ,#0072B2,,steelblue
-MBON09,#053CFF,neuron,royalblue
+MBON-M4,#053CFF,neuron,royalblue
 ,#B32DB5,,magenta
 ,#CC79A7,,pink
 ,#053CFF,,royal blue
 ,#053CFF,,royalblue
 ,#0072B2,,steelblue
-MBON17,#56B4E9,neuron,skyblue
-MBON13,#A3CCE9,neuron,iceblue
+MBON09,#56B4E9,neuron,skyblue
+MBON05,#A3CCE9,neuron,iceblue
 ,#000000,,black
 ,#4D4D4D,,darkgrey
 others,#B3B3B3,neuron,lightgrey
@@ -144,7 +144,7 @@ others,#B3B3B3,neuron,lightgrey
 ,#FF1493,,fuschia
 ,#009F3F,,darkgreen
 ,#1BB6AF,,marine
-MBON16,#132157,neuron,navy
+MBON-α′3,#132157,neuron,navy
 ,#0C60B2,,blue
 ,#A1D8EB,,cyan
 ,#B80068,,pink
