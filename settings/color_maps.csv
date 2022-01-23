@@ -1,5 +1,5 @@
 label,hex,type,colour
-APL,#D72000,neuron,red
+,#D72000,,red
 ,#D72000,,red
 ,#8FDA04,,green
 DPM,#8FDA04,neuron,green
@@ -8,7 +8,7 @@ DPM,#8FDA04,neuron,green
 ,#54BCD1,,cyan
 ,#8FDA04,,green
 ,#8FDA04,,green
-,#5CA700,,green
+APL,#5CA700,neuron,green
 KCg-m,#F4B95A,neuron,paleorange
 ,#EF7C12,,darkorange
 ,#54BCD1,,cyan
@@ -19,7 +19,7 @@ KCg-m,#F4B95A,neuron,paleorange
 ,#EF7C12,,orange
 ,#FF1493,,fuschia
 ,#FF1493,,fuschia
-,#d55e3a,,sienna3
+PPL1,#d55e3a,,sienna3
 ,#FC5A50,,coral
 ,#1BB6AF,,marine
 ,#AF6125,,brown
@@ -27,11 +27,11 @@ KCg-m,#F4B95A,neuron,paleorange
 ,#AF6125,,brown
 ,#ADD8E6,,lightblue
 ,#007BC3,,blue
-KCg-d,#AF6125,neuron,brown
+,#AF6125,,brown
 KCa'b'-m,#F0E442,neuron,yellow
 KCa'b'-ap1,#EBBF06,neuron,paleorange
 KCa'b'-ap2,#F8F097,neuron,mediumorange
-,#EE4244,,cerise
+KCg-d,#EE4244,neuron,cerise
 ,#EF7C12,,orange
 ,#C70E7B,,purple
 ,#D72000,,red
@@ -71,7 +71,7 @@ KCa'b'-ap2,#F8F097,neuron,mediumorange
 ,#31D64D,,palegreen
 ,#009F3F,,darkgreen
 ,#D72000,,red
-PAM01_a,#AF6125,neuron,brown
+PAM,#AF6125,neuron,brown
 ,#F4E3C7,,palebrown
 ,#000000,,black
 ,#007BC3,,blue
@@ -91,7 +91,7 @@ PAM01_a,#AF6125,neuron,brown
 ,#009F3F,,darkgreen
 ,#132157,,navy
 ,#009F3F,,darkgreen
-MBON17-like,#95A3CE,neuron,blue
+,#95A3CE,,blue
 ,#95A3CE,,blue
 ,#95A3CE,,blue
 ,#95A3CE,,blue
@@ -134,8 +134,8 @@ MBON-M4,#053CFF,neuron,royalblue
 ,#053CFF,,royal blue
 ,#053CFF,,royalblue
 ,#0072B2,,steelblue
-MBON09,#56B4E9,neuron,skyblue
-MBON05,#A3CCE9,neuron,iceblue
+,#56B4E9,neuron,skyblue
+otherMBON,#A3CCE9,neuron,iceblue
 ,#000000,,black
 ,#4D4D4D,,darkgrey
 others,#B3B3B3,neuron,lightgrey
