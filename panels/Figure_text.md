@@ -1,12 +1,13 @@
 ## Supplementary figure legend:
 * Supplementary Figure 9. \
-(a) Example synapses wherein two different KCs in the presynaptic side connects to the same MBON on the postsynaptic side. \
-(b) In this example synapse, a KC in the presynaptic site is connected to only one type of MBON, while the rest of the neurons on the postsynaptic site are KCs. \
-(c) In this example synapse, a KC in the presynaptic site is connected to multiple types of MBONs on the postsynaptic site.\
-(d) The proportion of number of neurons per postsynaptic site (KCs on the presynaptic site) for MBON-M4.\
-(e) The proportion of number of neurons per postsynaptic site (KCs on the presynaptic site) for MBON-M6.\
-(f) The proportion of number of neurons per postsynaptic site (KCs on the presynaptic site) for MBON-α′3.\
-(g) Percentage of different types of neurons present in the postsynaptic site along with a specific MBON. This provides information on what neurons on the postsynaptic site could the specific MBON be cross talking with. For example for MBON-M4 about 15% of the postsynapses are shared with KCa'b'-ap2.
+(a) Example MBON with pre,postsynapses overlaid on alpha, gamma lobes of the mushroom body. \
+(b) Example synapses wherein two different KCs in the presynaptic side connects to the same MBON on the postsynaptic side. \
+(c) In this example synapse, a KC in the presynaptic site is connected to only one type of MBON, while the rest of the neurons on the postsynaptic site are KCs. \
+(d) In this example synapse, a KC in the presynaptic site is connected to multiple types of MBONs on the postsynaptic site.\
+(e) The proportion of number of neurons per postsynaptic site (KCs on the presynaptic site) for MBON-M4.\
+(f) The proportion of number of neurons per postsynaptic site (KCs on the presynaptic site) for MBON-M6.\
+(g) The proportion of number of neurons per postsynaptic site (KCs on the presynaptic site) for MBON-α′3.\
+(h) Percentage of different types of neurons present in the postsynaptic site along with a specific MBON. This provides information on what neurons on the postsynaptic site could the specific MBON be cross talking with. For example for MBON-M4 about 15% of the postsynapses are shared with KCa'b'-ap2.
 
 
 ## Methods description:
